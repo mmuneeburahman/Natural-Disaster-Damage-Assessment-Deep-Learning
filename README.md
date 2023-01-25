@@ -1,2 +1,5 @@
 # Destructed-Building-Detection-Satellite-Imagery
-This repo contains datasets, papers and other information related to the topic.
+## Datasets
+1. xView
+2. xView2
+## Papers
