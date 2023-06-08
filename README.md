@@ -20,7 +20,8 @@
 14. Self-Supervised Learning for Building Damage Assessment from Large-scale xBD Satellite Imagery Benchmark Datasets, 2022 | [Paper](https://arxiv.org/abs/2205.15688)
 15. Weakly Supervised Segmentation of Small Buildings with Point Labels, 2021 | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_Weakly_Supervised_Segmentation_of_Small_Buildings_With_Point_Labels_ICCV_2021_paper.pdf)
 16. SUSTAIN BENCH : Benchmarks for Monitoring the Sustainable Development Goals with Machine Learning, 2021 | [Paper](https://arxiv.org/abs/2111.04724)
-
+17. SegDetector: A Deep Learning Model for Detecting Small and Overlapping Damaged Buildings in Satellite Images, 2022 | [Paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi944nV4rP_AhW4QvEDHZqIASEQFnoECCAQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2072-4292%2F14%2F23%2F6136%2Fpdf&usg=AOvVaw3a4D8Kf08nBCgeg7G8jwHx)
+18. LARGE-SCALE BUILDING DAMAGE ASSESSMENT USING A NOVEL HIERARCHICAL TRANSFORMER ARCHITECTURE ON SATELLITE IMAGES, 2023 | [Paper](https://arxiv.org/pdf/2208.02205.pdf)
 ## Detection Papers
 1. CVNet: Contour Vibration Network for Building Extraction, 2022 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_CVNet_Contour_Vibration_Network_for_Building_Extraction_CVPR_2022_paper.pdf)
 2. PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images
