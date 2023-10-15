@@ -20,9 +20,8 @@
 #### 2022
 1. Hybrid U-Net: Semantic segmentation of high-resolution satellite images to detect war destruction, 2022 | [Paper](https://www.sciencedirect.com/science/article/pii/S2666827022000688)
 2. Interpretability in Convolutional Neural Networks for Building Damage Classification in Satellite Imagery, 2022 | [Paper](https://arxiv.org/abs/2201.10523)
-3. LARGE - SCALE BUILDING DAMAGE ASSESSMENT USING A NOVEL HIERARCHICAL TRANSFORMER ARCHITECTURE ON SATELLITE IMAGES, 2022 | [Paper](https://arxiv.org/abs/2208.02205)
-4. Self-Supervised Learning for Building Damage Assessment from Large-scale xBD Satellite Imagery Benchmark Datasets, 2022 | [Paper](https://arxiv.org/abs/2205.15688)
-5. SegDetector: A Deep Learning Model for Detecting Small and Overlapping Damaged Buildings in Satellite Images, 2022 | [Paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi944nV4rP_AhW4QvEDHZqIASEQFnoECCAQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2072-4292%2F14%2F23%2F6136%2Fpdf&usg=AOvVaw3a4D8Kf08nBCgeg7G8jwHx)
+3. Self-Supervised Learning for Building Damage Assessment from Large-scale xBD Satellite Imagery Benchmark Datasets, 2022 | [Paper](https://arxiv.org/abs/2205.15688)
+4. SegDetector: A Deep Learning Model for Detecting Small and Overlapping Damaged Buildings in Satellite Images, 2022 | [Paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi944nV4rP_AhW4QvEDHZqIASEQFnoECCAQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2072-4292%2F14%2F23%2F6136%2Fpdf&usg=AOvVaw3a4D8Kf08nBCgeg7G8jwHx)
 #### 2023
 1. LARGE-SCALE BUILDING DAMAGE ASSESSMENT USING A NOVEL HIERARCHICAL TRANSFORMER ARCHITECTURE ON SATELLITE IMAGES, 2023 | [Paper](https://arxiv.org/pdf/2208.02205.pdf)
 2. xFBD: Focused Building Damage Dataset and Analysis, 2023 | [Paper](https://arxiv.org/pdf/2212.13876.pdf)
