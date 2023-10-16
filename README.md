@@ -1,8 +1,9 @@
 # Destructed-Building-Detection-Satellite-Imagery
 ## Datasets
-1. [xView](http://xviewdataset.org/)
-2. [xView2](https://xview2.org/)
-3. [Ida-BD: pre- and post-disaster high-resolution satellite imagery for building damage assessment from Hurricane Ida](https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published//PRJ-3563/images)
+1. [xView](http://xviewdataset.org/), 2018
+2. [xView2](https://xview2.org/), 2020
+3. [Syria Destruction Dataset](https://github.com/ShimaN19/Hybrid-U-Net/tree/main), 2021
+4. [Ida-BD: Hurricane Ida](https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published//PRJ-3563/images), 2023
 ## Papers
 #### 2019
 1. Building Damage Detection in Satellite Imagery Using Convolutional Neural Networks, 2019 | [Paper](https://arxiv.org/abs/1910.06444)
