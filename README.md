@@ -27,6 +27,7 @@
 #### 2023
 1. LARGE-SCALE BUILDING DAMAGE ASSESSMENT USING A NOVEL HIERARCHICAL TRANSFORMER ARCHITECTURE ON SATELLITE IMAGES, 2023 | [Paper](https://arxiv.org/pdf/2208.02205.pdf)
 2. xFBD: Focused Building Damage Dataset and Analysis, 2023 | [Paper](https://arxiv.org/pdf/2212.13876.pdf)
+3. RescueNet: A High Resolution UAV Semantic Segmentation Dataset for Natural Disaster Damage Assessment, 2023 | [Paper](https://arxiv.org/pdf/2202.12361.pdf) | [Code](https://github.com/BinaLab/RescueNet-A-High-Resolution-Post-Disaster-UAV-Dataset-for-Semantic-Segmentation)
 ## Detection Papers
 1. CVNet: Contour Vibration Network for Building Extraction, 2022 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_CVNet_Contour_Vibration_Network_for_Building_Extraction_CVPR_2022_paper.pdf)
 2. PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images
