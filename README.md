@@ -8,10 +8,12 @@ The datasets for damage assessments are divided into the following categories:
 ## Datasets
 1. [xView](http://xviewdataset.org/), 2018 | Satellite
 2. [xView2](https://xview2.org/), 2020 | Satellite
-3. [Syria Destruction Dataset](https://github.com/ShimaN19/Hybrid-U-Net/tree/main), 2021 | Satellite
-4. [LIVER-CD](https://chenhao.in/LEVIR/), 2021 | Satellite
-5. [FloodNet](https://github.com/BinaLab/FloodNet-Challenge-EARTHVISION2021), 2021 | UAV
-6. [Ida-BD: Hurricane Ida](https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published//PRJ-3563/images), 2023 | Satellite
+3. [AIDER](https://github.com/ckyrkou/AIDER), 2020 | UAV
+4. [ISBDA](https://drive.google.com/file/d/1kEKJ8kr1aScXz_1El7Mn-Yi0ANducQIW/view), 2020 | UAV
+5. [Syria Destruction Dataset](https://github.com/ShimaN19/Hybrid-U-Net/tree/main), 2021 | Satellite
+6. [LIVER-CD](https://chenhao.in/LEVIR/), 2021 | Satellite
+7. [FloodNet](https://github.com/BinaLab/FloodNet-Challenge-EARTHVISION2021), 2021 | UAV
+8. [Ida-BD: Hurricane Ida](https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published//PRJ-3563/images), 2023 | Satellite
 ## Papers
 #### 2019
 1. Building Damage Detection in Satellite Imagery Using Convolutional Neural Networks, 2019 | [Paper](https://arxiv.org/abs/1910.06444)
